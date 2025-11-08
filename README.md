@@ -20,3 +20,6 @@ GPT-4를 기반으로 한 사이버펑크 추리 시뮬레이터입니다.
 ```bash
 pip install -r requirements.txt
 python app.py
+```
+게임플레이:
+https://huggingface.co/spaces/devmeta/cyberpunk-detective-ai
